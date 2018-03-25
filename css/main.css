@@ -11,6 +11,11 @@ body {
     color: #6a737b;
 }
 
+.row {
+  margin-right: 0px; 
+  margin-left: 0px; 
+}
+
 ol, ul {
     margin: 0;
     padding: 0;
