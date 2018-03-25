@@ -68,7 +68,7 @@
   <script src="js/jquery.appear.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery.form/3.32/jquery.form.js"></script>
   <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.11.1/jquery.validate.min.js"></script>
-  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyAsPokuuvyb6elcUGwdHzG7Y_5fH7ZkKZU"></script>
   <script src="js/jquery.easing.min.js"></script>
   <script src="js/wow.min.js"></script>
   <script>
