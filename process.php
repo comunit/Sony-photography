@@ -3,7 +3,7 @@
  
     // EDIT THE 2 LINES BELOW AS REQUIRED
  
-    $email_to = "comunit@live.com";
+    $email_to = "info@sonyproduction.co.uk";
  
     $email_subject = "New enquiry from website";
  

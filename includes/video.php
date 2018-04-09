@@ -21,14 +21,6 @@
   </div>
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-12 colxm-12">
-      <iframe src="https://player.vimeo.com/video/237651792" width="100%" height="300px" frameborder="0" webkitallowfullscreen
-        mozallowfullscreen allowfullscreen></iframe>
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-12 colxm-12">
-      <iframe src="https://player.vimeo.com/video/238665965" width="100%" height="300px" frameborder="0" webkitallowfullscreen
-        mozallowfullscreen allowfullscreen></iframe>
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-12 colxm-12">
       <iframe src="https://player.vimeo.com/video/237654004" width="100%" height="300px" frameborder="0" webkitallowfullscreen
         mozallowfullscreen allowfullscreen></iframe>
     </div>

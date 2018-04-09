@@ -16,10 +16,9 @@
 
       <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 wow fadeInLeft animated" data-wow-duration="500ms">
         <div class="contact-address">
-          <h3> Eam tacimates philosophia ne</h3>
-          <p>1234 Nowhere, 00000,</p>
-          <p>Dallas. United States.</p>
-          <p>(541) 1234 567</p>
+          <h3>Contact Us</h3>
+          <p>info@sonyproduction.co.uk</p>
+          <p>00447535972286</p>
         </div>
       </div>
 
